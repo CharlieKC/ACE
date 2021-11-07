@@ -1,0 +1,7 @@
+mkl-fft==1.0.6
+mkl-random==1.0.1
+numpy==1.15.1
+torch==1.3.1
+torchvision==0.4.2
+conllu
+allennlp==0.9.0
